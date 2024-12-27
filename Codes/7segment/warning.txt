@@ -1,0 +1,1 @@
+note that you have to connect PORT A instead of PORT C to 7 segment.
